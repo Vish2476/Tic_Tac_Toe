@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="name">TIC_TAC_TOE</string>
+    <string name="suffix">Tic Tac Toe Game By VIBASS</string>
+    <string name="suff1">A Game</string>
+    <string name="suff2">Design BY</string>
+    <string name="suff3">VIBASS</string>
+    <string name="suff4">Try By</string>
+    <string name="suffix1">The Game Built(TRY) by VIBASS</string>
+</resources>
