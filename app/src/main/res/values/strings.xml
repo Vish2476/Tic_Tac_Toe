@@ -7,4 +7,7 @@
     <string name="suff3">VIBASS</string>
     <string name="suff4">Try By</string>
     <string name="suffix1">The Game Built(TRY) by VIBASS</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
